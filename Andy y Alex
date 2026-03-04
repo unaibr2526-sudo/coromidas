@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   
+   
+</head>
+<body>
+
+<header>
+    <h1>Andy & Alex</h1>
+    <p>Vida de Estudiantes y Practicantes de Mecánica</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="#experiencia">Experiencia</a></li>
+        <li><a href="#etica">Ética</a></li>
+ 
+</nav>
+
+<section id="nosotros">
+    <h2>Sobre Nosotros</h2>
+    <p>hola somos ANDY Y ALEX  somos estudiantes de mecanizado y hemos creado esta pagina con el fin de poder enseñar y compartir nuestra experiencia perosnal en base a lo que hemos aprendido a lo largo de estos años de estudio yen practicas en tallere mecanicos e oficina tecnica</p>
+    <p>Queremos mostrar que ser mecánico no es solo arreglar coches: es pasión, esfuerzo y aprendizaje constante. También buscamos inspirar a otros estudiantes que quieren aprender haciendo.</p>
+</section>
+
+<section id="experiencia">
+    <h2>Nuestra Experiencia</h2>
+    <p>ANDY :
+     En mi caso me dirijeron a un taller mecanico de montaje donde pude aprender mnuchas cosas sobre el emsbale de piezas , el compañerismo y el trabajo en grupo era abundante , no obstante habia gente que no se llevaban del todo bien por cuestiones personales pero puedo decir que habia buen hmabiente , en base al trabajo siempre hice todo lo mejor que pude y tratando de ser lo mas eficiente , mi jefe de taller era muy amable y siempre resolvia mis dudas , no hacia mitrabajo simplemnte me explicaba ccomo tenia que hacerlo ,tienen mucha confianza en mi , y eso es lo mas iportante , que me dejan aprender de cada error cometido y son conciente que los logros parten de equivocarse y saber desenvolberse mejor al dia a dia , fue una gran experiencia lavoral.
+     
+   ALEX:      
+Actualmente trabajo en contracto de prácticas como servicio técnico de Fikus ST, Fikus Plus y Cimatron (Softwares de CAD/CAM) en Cimatech. Mi trabajo consiste en arreglar problemas generales con el software a clientes, atiendo sus llamadas y les llamo yo a ellos cuando es necesario.
+También realizo instalaciones de software y me encargo de que tengan una licencia para poder usar el software que necesiten. Normalmente lo hacemos en remoto pero en algunas ocasiones vamos presencialmente a las empresas, ya que si tienen una intranet protegida no podemos acceder desde nuestro ordenador a los suyos.
+De momento el trabajo me está gustando, pero considero que me falta mucho por aprender y que puedo llegar mucho más lejos, pero me veo en esta empresa para un par de años más.
+
+<section id="etica">
+    <h2>OPINION PERSONAL</h2>
+    <p>Para nosotros, la ética no es algo opcional, sino parte esencial de todo lo que hacemos, tanto en el taller como en la oficina técnica. Como mecánico montador, Andy vive la ética cada día al responsabilizarse de cada pieza que instala y cada reparación que realiza, asegurándose de que todo sea seguro, honesto y correcto para no poner en riesgo a los clientes ni al vehículo. Al mismo tiempo, desde la oficina técnica, Alex destaca que la ética también se manifiesta en la precisión, claridad y fiabilidad de los planos, diagnósticos e informes que se generan, porque esa información es la base para que el equipo del taller pueda trabajar con seguridad. En conjunto creemos que actuar con responsabilidad, honestidad, cuidado y respeto por los demás no solo hace mejores mecánicos, sino también mejores profesionales.</p>
+   <img width="1000" height="1500" alt="image" src="https://github.com/user-attachments/assets/3e6c1d75-b1cb-47d7-8cce-76f629810d2f" />
